@@ -4,7 +4,7 @@
   width: 30em;
   padding: 1em;
   max-width: 85vw;
-  height: 50vh;
+  height: 45vh;
   border-radius: 1em;
   background-size: cover;
   background-position: center;
@@ -15,7 +15,7 @@
 .tinderCards__cardContainer {
   display: flex;
   justify-content: center;
-  margin-top: 10vh;
+  margin-top: 3vh;
 }
 .swipe {
   position: absolute;
